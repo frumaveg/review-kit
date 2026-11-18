@@ -1,0 +1,22 @@
+{
+  "name": "review-kit",
+  "version": "1.0.0",
+  "description": "Code-review skills for Claude Code: a slide deck that presents a change and judges whether it is built correctly, published as a Claude Artifact in the language you converse in.",
+  "author": {
+    "name": "Fruma Veg",
+    "url": "https://github.com/frumaveg"
+  },
+  "homepage": "https://github.com/frumaveg/review-kit",
+  "repository": "https://github.com/frumaveg/review-kit",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "presentation",
+    "slides",
+    "architecture",
+    "skills"
+  ],
+  "skills": [
+    "./skills/change-presentation"
+  ]
+}

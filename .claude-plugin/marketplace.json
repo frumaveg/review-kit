@@ -1,0 +1,22 @@
+{
+  "name": "frumaveg",
+  "owner": {
+    "name": "Fruma Veg",
+    "url": "https://github.com/frumaveg"
+  },
+  "description": "Fruma Veg's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "review-kit",
+      "source": "./",
+      "description": "Code-review skills: a slide deck that presents a change and judges whether it is built correctly, published as a Claude Artifact.",
+      "category": "engineering",
+      "keywords": [
+        "code-review",
+        "presentation",
+        "slides",
+        "architecture"
+      ]
+    }
+  ]
+}
